@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2020/03/04" author="e.World Technology Ltd.">
+  <project id="{D54C8CFC-831E-4677-9FFE-3A9FCE329EA1}" file="C:\Users\khadija nadiadi\Documents\PHPReportMaker\Projects\bokerbunchF.prp" name="bokerbunchF" product="PHPReportMaker" version="12.0" datetime="2020/03/04 12:31:58" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="appt" name="appt" caption="appt" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="area" name="area" caption="area" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="broker" name="broker" caption="broker" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="city" name="city" caption="city" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cmps" name="cmps" caption="cmps" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="message" name="message" caption="message" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="room_rental_registrations" name="room_rental_registrations" caption="room rental registrations" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="room_rental_registrations_apartment" name="room_rental_registrations_apartment" caption="room rental registrations apartment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="state" name="state" caption="state" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view1" name="view1" caption="BROKER LOCATION WISE" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view2" name="view2" caption="BROKER TENAMENT WISE" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view4" name="view4" caption="BROKER PRICE WISE(TENAMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view5" name="view5" caption="PROPERTY BROKERWISE(TENAMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view3" name="view3" caption="BROKER APARTMENTWISE" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view6" name="view6" caption="PROPERTY BROKER WISE(APARTMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view7" name="view7" caption="PROPERTY PRICE WISE(TENAMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view8" name="view8" caption="PROPERTY PRICE WISE(APARTMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view9" name="view9" caption="PROPERTY LOCATION WISE(TENAMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view10" name="view10" caption="PROPERTY LOCATION WISE(APARTMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view11" name="view11" caption="PROERTY ACCOMDATION WISE(TENAMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view12" name="view12" caption="PROPERTY ACCOMDATION WISE(APARTMENT)" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
